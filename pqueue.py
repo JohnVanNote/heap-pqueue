@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/env python
 #
 # Created by John Van Note
 # Created on 2/14/12
